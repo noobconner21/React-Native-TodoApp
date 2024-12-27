@@ -11,7 +11,9 @@ export default function App() {
       <View style={styles.taskWrapper}>
         <Text style={styles.sectionTitle}>Today's Task</Text>
       </View>
-      <View style={styles.item}></View>
+      <View style={styles.item}>
+        
+      </View>
 
     </View>
   );
